@@ -29,4 +29,4 @@ The proposed pilot covers **4 fields, 2 greenhouses, and 40 simulated sensors**,
 
 ## Documentation
 
-[Phase 1 — Project Management Plan](PM_CSP_15_Phase%201.docx)
+[Phase 1 — Project Management Plan (PDF)](PM_CSP_15_Phase%201.pdf)
